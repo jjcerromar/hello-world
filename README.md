@@ -1,3 +1,3 @@
 # hello-world
-Project example created following the Github tutorial
+Tururu
 This is just a test.
